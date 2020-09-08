@@ -1,0 +1,13 @@
+.post_commentBox{
+  display: flex;
+  margin-top: 10px
+}
+.post_input{
+  flex: 1;
+  border-top: 1px solid lightgray ;
+
+}
+.post_button{
+  flex: 0;
+  border-top: 1px solid lightgray ;
+}
